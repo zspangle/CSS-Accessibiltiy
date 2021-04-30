@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+}
+
+html, body{
+    height: 100%;
+    background-color: black;
+}
+.bitcoin, .ethereum, .cardano, .dogecoin, .siacoin{
+    height: 150px;
+    width: 150px;
+}
+
+.wrapper{
+    padding-inline: 15px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.yellow{
+    color: yellow;
+    font-size: 35px;
+}
+
+.pink{
+    color: pink;
+    font-size: 35px;
+}
+
+.orange{
+    color: orange;
+    font-size: 35px;
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.bt1{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    font-size: 20px;
+}
+
+.bt2{
+    font-family: 'Lobster', cursive;
+    color: white;
+    font-size: 20px;
+}
+
+.bt3{
+    font-family: 'Sacramento', cursive;
+    color: white;
+    font-size: 20px;
+}
+
+.bt4{
+    font-family: 'Parisienne', cursive;
+    color: white;
+    font-size: 20px;
+}
+
+.bt5{
+    font-family: 'Homemade Apple', cursive;
+    color: white;
+    font-size: 20px;
+}
+
+.bt6{
+    font-family: 'Monoton', cursive;
+    color: white;
+    font-size: 20px;
+}
+
+.gt1{
+    font-family: 'Nova Cut', cursive;
+    color: white;
+    font-size: 20px;
+}
+
+.gt2{
+    font-family: 'Architects Daughter', cursive;
+    color: white;
+    font-size: 20px;
+}
+
+.gt3{
+    font-family: 'Indie Flower', cursive;
+    color: white;
+    font-size: 20px;
+}
+
+.gt4{
+    font-family: 'Kanit', sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+.gt5{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+.gt6{
+    font-family: 'Akaya Kanadaka', cursive;
+    color: white;
+    font-size: 20px;
+}
